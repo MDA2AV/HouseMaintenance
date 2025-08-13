@@ -1,0 +1,5 @@
+---
+title: Bedroom
+---
+
+Bedroom
