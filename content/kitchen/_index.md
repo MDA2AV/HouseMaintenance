@@ -3,7 +3,7 @@ title: Kitchen
 ---
 
 ## Description
-Small description for kitchen
+Small description for kitchen, and now we added this
 
 ## Image
 <img src=kitchen1.png>
@@ -13,3 +13,6 @@ Small description for kitchen
   <source src="vid1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+## New Tab thingy
+Putting some text here
