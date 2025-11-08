@@ -1,5 +1,0 @@
----
-title: Garage
----
-
-Garage
