@@ -13,6 +13,6 @@ title: Riolering
 
 <br/>
 <div style="background: #E5FBFF; padding: 10px; color: black; border-radius: 20px;">
-  <h2></h2>
+  <h2>Herstellen</h2>
   <img src="Riolering -.jpg" alt="image" style="max-width: 100%;">
 </div>
