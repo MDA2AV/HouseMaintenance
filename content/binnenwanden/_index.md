@@ -113,7 +113,7 @@ Behangklaar stucwerk heeft een minder egale ondergrond, wanneer je op deze onder
   <img src="Binnenwanden - Vervangen ''Boerenstuc vervangen, behangklaar opleveren.''.jpg" alt="image" style="max-width: 100%;">
   <p>Boerenstuc vervangen, behangklaar opleveren.</p>
 
-  <img src="Binnenwanden - Vervangen ''Meer dan 10� van het totale oppervlak stucwerk beschadigd.''.jpg" alt="image" style="max-width: 100%;">
+  <img src="Binnenwanden - Vervangen ''Meer dan 10% van het totale oppervlak stucwerk beschadigd.''.jpg" alt="image" style="max-width: 100%;">
   <p>Meer dan 10� van het totale oppervlak stucwerk beschadigd.</p>
 
   <img src="Binnenwanden - Vervangen ''Steenstrips zijn asbest verdacht en mogen niet door''.jpg" alt="image" style="max-width: 100%;">

@@ -25,10 +25,10 @@ title: Balkon
 <div style="background: #E5FBFF; padding: 10px; color: black; border-radius: 20px;">
   <h2>Behouden</h2>
   <img src="Balkon - Behouden(add under ''schoon,heel en veilig '') 1.jpg" alt="image" style="max-width: 100%;">
-  <p>Schoon, heel en veilig.</p>
   <img src="Balkon - Behouden 2.jpg" alt="image" style="max-width: 100%;">
   <img src="Balkon - Behouden 3.jpg" alt="image" style="max-width: 100%;">
   <img src="Balkon - Behouden 4.jpg" alt="image" style="max-width: 100%;">
+  <p>Schoon, heel en veilig.</p>
 </div>
 
 ## <span style="color:transparent;">Herstellen</span>
@@ -39,7 +39,7 @@ title: Balkon
   <img src="Balkon - Herstellen 3 '' vuil balkon, moet worden schoon gemaakt.''.jpg" alt="image" style="max-width: 100%;">
   <p>Vuil balkon, moet worden schoon gemaakt.</p>
   <img src="Balkon - Herstellen 4 '' Toplaag herstellen.''.jpg" alt="image" style="max-width: 100%;">
-  <p>Toplaag herstellent.</p>
+  <p>Toplaag herstellen.</p>
   <img src="Balkon - Herstellen 5 '' Vloer moet vrij zijn van verf''.jpg" alt="image" style="max-width: 100%;">
   <p>Vloer moet vrij zijn van verf.</p>
 </div>
