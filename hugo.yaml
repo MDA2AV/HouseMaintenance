@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: Home Page
+title: Home
 
 # import hextra as module
 module:
@@ -18,6 +18,9 @@ markup:
 
 menu:
   main:
+    - name: Menu
+      pageRef: /z_pc
+      weight: 1
     - name: Search
       weight: 4
       params:
@@ -27,3 +30,7 @@ params:
   navbar:
     displayTitle: true
     displayLogo: false
+
+footer:
+    displayCopyright: false
+    displayPoweredBy: false
